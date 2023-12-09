@@ -17,7 +17,7 @@ void print(int*arr,int n){
 
 int main()
 {
-    
+   cout<<"hiiiii"; 
 int arr1[10]={2,3,4,5,6,7,8};
 print (arr1,10);
 cout<<endl;
